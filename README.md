@@ -1,5 +1,5 @@
 # Big-Data-methods-and-tools
-[Lista1](/L1.pdf)
+[Lista1](/lista1/L1.pdf)
 [Lista2](L2.pdf)
 [Lista3](/lista3/L3.pdf)
 [Lista4](L4.pdf)
